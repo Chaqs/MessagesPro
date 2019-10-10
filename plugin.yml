@@ -1,0 +1,7 @@
+
+name: Messages
+main: Chaqs\Messages\Main
+version: 0.0.1
+api: 3.9.5
+author: Chaqs
+description: A simple plugin for adding Join/Leave messages to your server
