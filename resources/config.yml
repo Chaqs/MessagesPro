@@ -1,0 +1,15 @@
+---
+#---------------------------------------
+# Broadcasts:
+join-message-broadcast: "[+] {name}"
+quit-message-broadcast: "[-] {name}"
+first-join-message-broadcast: "[First-Join] {name}"
+#---------------------------------------
+# Player Only Message:
+join-message-player: "Welcome Back..."
+first-join-player: "Our system doesnt recognize you, You must be new!"
+#---------------------------------------
+# Color Codes:
+# https://www.digminecraft.com/lists/color_list_pc.php
+# If you do not want to use one of the messages set it to ""
+...
