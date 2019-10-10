@@ -19,7 +19,7 @@ class Main extends PluginBase implements Listener
 
     public function onEnable(): void
     {
-        $this->getLogger()->info("Messages Has Been Enabled Author: Chaqs");
+
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
         $this->saveDefaultConfig();
     }
@@ -47,6 +47,6 @@ class Main extends PluginBase implements Listener
 
 
 	public function onDisable() : void{
-		$this->getLogger()->info("Messages Has Been Disabled");
+
 	}
 }
