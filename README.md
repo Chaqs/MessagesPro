@@ -1,4 +1,5 @@
 # Simple plugin made to edit Join/Leave messages for beginners
+# Easy To Configure in The Config.yml In Plugin_Data
 
 Includes: First-Join (Broadcast) Join (Broadcast) Quit (Broadcast)
 
