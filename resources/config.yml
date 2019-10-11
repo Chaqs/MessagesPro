@@ -9,7 +9,17 @@ first-join-message-broadcast: "[First-Join] {name}"
 join-message-player: "Welcome Back..."
 first-join-player: "Our system doesnt recognize you, You must be new!"
 #---------------------------------------
+#Death Messages:
+suffocation-death: "{name} Suffocated!"
+drown-death: "{name} Drowned!"
+fall-damage-death: "{name} Fell and Hit Their Head!"
+fire-damage-death: "{name} Burned Alive!"
+lava-death: "{name} Was Distracted and Fell Into lava!"
+explosion-death: "{name} Was Blown Up!"
+other-death: "{name} Died!"
+#---------------------------------------
 # Color Codes:
 # https://www.digminecraft.com/lists/color_list_pc.php
 # If you do not want to use one of the messages set it to ""
+#---------------------------------------
 ...
